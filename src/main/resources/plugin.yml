@@ -1,0 +1,7 @@
+name: RUSEKH-CRAFTINGS
+main: dev.rusekh.craftingi.Main
+author:  ruzekh
+version: 1.0-DEV
+
+commands:
+  crafting:
